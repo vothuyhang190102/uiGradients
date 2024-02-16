@@ -1381,6 +1381,10 @@
         "name": "Piggy Pink",
         "colors": ["#ee9ca7", "#ffdde1"]
     },
+    { 
+        "name": "Piggy Blue",
+        "colors": ["#3DA9FC", "#A3F3F9"]
+    },
     {
         "name": "Grade Grey",
         "colors": ["#bdc3c7","#2c3e50"]
